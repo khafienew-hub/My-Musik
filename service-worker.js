@@ -1,0 +1,21 @@
+{
+  "name": "Luxe Music Player",
+  "short_name": "LuxePlayer",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#b026ff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3075/3075977.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
